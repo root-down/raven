@@ -1,6 +1,8 @@
+[![Build Status](https://travis-ci.com/lukeswitz/Raven.svg?token=Phuxh4jGo8zLxLiSkoHQ&branch=master)](https://travis-ci.com/lukeswitz/Raven)
+
 <img src="https://www.rootdowndigital.com/wp-content/uploads/2017/12/300x300.png" height="75" width="75" align="right">
 
-[![Build Status](https://travis-ci.com/lukeswitz/Raven.svg?token=Phuxh4jGo8zLxLiSkoHQ&branch=master)](https://travis-ci.com/lukeswitz/Raven)
+<img src="https://raw.githubusercontent.com/root-down/Raven/master/img/Raven_Launch_Intro_Doc.png" height="100%" width="100%" align="right">
 
 # RAVEN
 <strong>Remote Security Perimeter</strong>
@@ -43,6 +45,6 @@ The project is currently in alpha status and doesn't have a stable build yet. We
 
 This project contains source code or library dependencies from the follow projects:
 
-* EZAudio: https://github.com/syedhali/EZAudio Copyright (c) 2013 Syed Haris Ali (MIT)
-* Chameleon: https://github.com/ViccAlexander/Chameleon Copyright (c) 2014-2015 Vicc Alexander (MIT)
-* SCLAlertView-Objective-C: https://github.com/dogo/SCLAlertView Copyright (c) 2013-2014 SCLAlertView-Objective-C by Diogo Autilio (MIT)
+- EZAudio: https://github.com/syedhali/EZAudio - Copyright (c) 2013 Syed Haris Ali (MIT)
+
+- SCLAlertView-Objective-C: https://github.com/dogo/SCLAlertView - Copyright (c) 2013-2014 SCLAlertView-Objective-C by Diogo Autilio (MIT)
