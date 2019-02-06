@@ -10,15 +10,16 @@
 ## About
 <p>The following sensors are monitored for a measurable change, and then recorded to an event log on the device:</p>
 
+#### Customized by your choice of permissions:
 <ul>
-  <li><strong>Accelerometer</strong>: phone’s motion and vibration</li>
-  <li><strong>Camera</strong>: motion in the phone’s visible surroundings from front or back camera</li>
-  <li><strong>Microphone</strong>: noises in the environment</li>
+  <li><strong>Accelerometer/Gyro</strong>: phone’s motion and vibration</li>
   <li><strong>Light</strong>: change in light from ambient light sensor</li>
   <li><strong>Power</strong>: detect device being unplugged or power loss</li>
   <li><strong>Altimeter</strong>: motion from simple location changes </li>
-  <li><strong>Location</strong>: changes in device speed or GPS coordinates</li>
+  <li><strong>Microphone</strong>: noises in the environment</li>
   <li><strong>Network</strong>: interruptions or changes to connection</li>
+  <li><strong>Camera</strong>: motion in the phone’s visible surroundings from front or back camera</li>
+  <li><strong>Location</strong>: changes in device speed or GPS coordinates</li>
 </ul>
 
 <p>The following sensors are monitored on most devices iOS 10+:</p>
