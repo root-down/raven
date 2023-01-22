@@ -1,6 +1,6 @@
-[![Build Status](https://travis-ci.com/lukeswitz/Raven.svg?token=Phuxh4jGo8zLxLiSkoHQ&branch=master)](https://travis-ci.com/lukeswitz/Raven)
 
-<img src="https://raw.githubusercontent.com/root-down/Raven/master/img/Raven_Launch_Intro_Doc.png" height="100%" width="100%" align="right">
+
+<img src="https://github.com/root-down/raven/blob/master/img/Raven_Launch_Intro_Doc.png" height="100%" width="100%" align="center">
 
 # RAVEN
 <strong>Remote Security Perimeter</strong>
